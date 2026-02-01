@@ -1,7 +1,14 @@
 ## Hello! / Hola / Hallo / Konichiwa / Ni hao / Namaste /  I'm Martin 👋
 
-<!--
-**martincorona007/martincorona007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Current Projects
+
+### Legacy Work
+
+### Latest Blog Posts
+
+## Connect 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
