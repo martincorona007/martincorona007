@@ -8,8 +8,7 @@
 
 ## Latest Blog Posts
 
-## Connect 
-
+## Connect
 <p align="left">
 <a href="https://dev.to/martincorona007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="martincorona007" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/martin-corona-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/martin-corona-/" height="30" width="40" /></a>
